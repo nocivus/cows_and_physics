@@ -1,0 +1,42 @@
+# Blender MTL File: 'cow.blend'
+# Material Count: 4
+
+newmtl COWCUERN.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.636863 0.636863 0.602353
+Ks 0.449020 0.449020 0.449020
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd .
+
+newmtl COWEYE.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.194510 0.175686 0.163137
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd .
+
+newmtl COWPEZU.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.244706 0.207059 0.175686
+Ks 0.449020 0.449020 0.449020
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd .
+
+newmtl COWSKIN.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.558431 0.558431 0.558431
+Ks 0.449020 0.449020 0.449020
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Volumes/data/Development/bitbucket/unity/cows_and_physics/image_sources/cow_skin_pattern.jpg
